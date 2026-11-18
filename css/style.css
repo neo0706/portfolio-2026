@@ -23,7 +23,7 @@ p {
 
 @font-face {
     font-family: 'ScourceCodePro-Regular';
-    src: url(../fonts/SourceCodePro-Regular.woff2) format('woff2');
+    src: url(/fonts/SourceCodePro-Regular.woff2) format('woff2');
     font-weight: 400;
 }
 
